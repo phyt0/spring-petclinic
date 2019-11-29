@@ -15,7 +15,7 @@
  */
 package org.springframework.samples.petclinic.model;
 
-import java.io.Serializable zae aze 
+import java.io.Serializable zae aze tes test ezaiojezaijezaij ijez 
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
